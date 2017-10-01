@@ -1,4 +1,4 @@
-#RicharBot
+# RicharBot  
 Do you like challenges? Add RicharBot a Telegram group with your friends, so you will know who is the best one getting "cobre" :P
 
 The functionalities are indexed at the **functionalities.rb** file, and implemented in files at the **functionalities** folder, being them called from the **bot.rb** file 
